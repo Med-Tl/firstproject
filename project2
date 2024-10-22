@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exemple de texte</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            text-align: center;
+            padding: 50px;
+        }
+        .bold-text {
+            font-weight: bold;
+            font-size: 24px;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <p class="bold-text">Mohamed Tlili</p>
+</body>
+</html>
+
